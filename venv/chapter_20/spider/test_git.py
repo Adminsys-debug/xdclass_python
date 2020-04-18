@@ -8,4 +8,4 @@
 # todo
 class Test:
     def test(self):
-        pass
+        print("hello world")
